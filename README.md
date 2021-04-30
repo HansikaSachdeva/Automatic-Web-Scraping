@@ -30,6 +30,4 @@ bash
 bash
 < insert code >
 
-
----
 ```
