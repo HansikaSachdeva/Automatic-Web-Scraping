@@ -22,7 +22,7 @@ pip install apscheduler
  ```
 
 ```
-'Terminal Commands
-- cd <Directory>
-- filename.py
+Terminal Commands
+cd <Directory>
+filename.py
 ```
