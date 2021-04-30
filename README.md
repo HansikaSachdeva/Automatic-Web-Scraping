@@ -9,3 +9,27 @@ The elements are stored in an empty list.
 The csv file is created, and the name, description and price of products is written in it. 
 
 BlockingScheduler is used to repeat this command every 4 hours. 
+
+## Instructions to run
+
+- Pre-requisites:
+
+  - BeautifulSoup
+  - BlockingScheduler 
+
+- pip install beautifulsoup4
+- pip install apscheduler
+```
+bash
+< insert code >
+
+
+- cd <Directory>
+- filename.py
+
+bash
+< insert code >
+
+
+---
+```
