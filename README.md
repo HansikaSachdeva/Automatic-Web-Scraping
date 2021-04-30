@@ -16,14 +16,13 @@ BlockingScheduler is used to repeat this command every 4 hours.
 
   - BeautifulSoup
   - BlockingScheduler 
-
-- pip install beautifulsoup4
-- pip install apscheduler
 ```
+pip install beautifulsoup4
+pip install apscheduler
+ ```
 
-
+```
+'Terminal Commands
 - cd <Directory>
 - filename.py
-
-
 ```
